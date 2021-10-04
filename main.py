@@ -6,3 +6,8 @@ print("Hello world 1 in team leader server")
 print("Hello World 2 in team leader server")
 
 print("Hello world 3 in team member A local server")
+print("Update in local B")
+
+print("Hello World 2 in team leader server")
+
+print("Hello world 3 in team member A local server")
